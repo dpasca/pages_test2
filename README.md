@@ -4,6 +4,6 @@ haha !
 
 Include 1
 
-{% include /test_include.md %}
+{% include_relative test_include.md %}
 
 yoyo
