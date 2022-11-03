@@ -4,10 +4,10 @@ haha !
 
 Include 1
 
-{% include test_include.md %}
+{% include ./test_include.md %}
 
 Include 2
 
-{% include test_include %}
+{% include ./test_include %}
 
 yoyo
